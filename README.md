@@ -5,6 +5,9 @@
 A secure custom protocol implementation for Muvor Protocol Secure (MVRPS) using TLS.
 
 ## Installation
+```bash
+go get -v github.com/wakuu-enterprises/mvrps-go
+```
 
 ```bash
 go mod tidy
